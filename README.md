@@ -9,8 +9,6 @@ Welcome to my UI/UX Designer Portfolio! This project showcases my design skills,
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
