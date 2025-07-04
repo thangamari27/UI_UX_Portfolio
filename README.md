@@ -103,9 +103,9 @@ Open your browser and navigate to `http://localhost:3000` to view the portfolio.
 
 For inquiries or feedback, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/santhana-karuppasamy-9149b2315)
-- **Portfolio**: [Your Portfolio Website](https://yourportfolio.com)
+- **Email**: (mailto:thangamari616@gmail.com)
+- **LinkedIn**: (https://www.linkedin.com/in/thanga-mari-03334126b/)
+- **Portfolio**: (https://tm-dev-portfolio.web.app/)
 
 ---
 
